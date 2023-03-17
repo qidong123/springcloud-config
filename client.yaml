@@ -8,7 +8,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
   rabbitmq:
-    port: 5672
     host: 192.168.144.77
+    port: 5672
     username: test
     password: 123456
